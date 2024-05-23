@@ -81,4 +81,4 @@ int main() {
     return 0;
 }
 
-// g++ -o decrypt main.cpp functions.cpp
+
